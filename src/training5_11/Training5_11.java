@@ -9,5 +9,7 @@ public class Training5_11 {
 		int date = calendar.get(Calendar.DAY_OF_MONTH);
 		String message = "今日の日付は" + month + "月" + date + "日です";
 		System.out.println(message);
+		System.out.println("追加した");
+
 	}
 }
